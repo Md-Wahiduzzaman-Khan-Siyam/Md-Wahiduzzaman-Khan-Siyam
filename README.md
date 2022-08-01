@@ -1,4 +1,4 @@
-- Hey there, I’m @Md-Wahiduzzaman-Khan-Siyam
+- Hey there, I’m Md Wahiduzzaman Khan Siyam
 - I’m currently studing computer science and engineering
 - Trying to be a competitive programmer
 
