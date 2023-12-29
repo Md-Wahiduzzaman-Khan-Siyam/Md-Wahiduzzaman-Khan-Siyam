@@ -1,5 +1,5 @@
 - Hey there, I’m Md Wahiduzzaman Khan Siyam
-- I’m studing computer science and engineering
+- I’m studying computer science and engineering
 - Trying to be a competitive programmer
 
 <!---
